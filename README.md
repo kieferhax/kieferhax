@@ -5,7 +5,7 @@
 - I'm currently learning about Secure Network Design, Cloud Security, Cybersecurity Architecture and Engineering, Secure Software Design, Governance, Risk, and Complaince, and Cybersecurity Management.
 - I'm interested in learning more about Web Development, Python, and Artificial Intelligence.
 - I'm looking to collaborate on Open Source projects.
-- My hobbies include learning, reading, retro video games, surfing the web, walking, hiking, music, anime, and professional wrestling.
+- My hobbies include learning, reading, retro video games, surfing the web, walking, hiking, music, anime, learning japanese, and professional wrestling.
 - Fun fact: I was born in Japan!
 - こんにちは、私の名前はキーファーです、日本が大好きです
 - (Kon'nichiwa, watashinonamaeha kīfādesu, Nihon ga daisukidesu)
