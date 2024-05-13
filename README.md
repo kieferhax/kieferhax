@@ -8,7 +8,7 @@
 - I'm interested in learning more about Web Development, Python, and Artificial Intelligence.
 - I'm looking to collaborate on Open Source projects.
 - My hobbies include learning, reading, retro video games, surfing the web, walking, hiking, music, anime, learning japanese, and professional wrestling.
-- Fun fact: I was born in Japan!  I've lived in Japan on 2 seperate occasions for a total of 8 years.
+- Fun fact: I was born in Japan and lived there on 2 seperate occasions for a total of 8 years.
 
 <!--
 **kieferland/kieferland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
