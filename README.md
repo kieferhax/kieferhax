@@ -7,6 +7,8 @@
 - I'm looking to collaborate on Open Source projects.
 - My hobbies include learning, reading, retro video games, surfing the web, walking, hiking, music, anime, and professional wrestling.
 - Fun fact: I was born in Japan!
+- こんにちは、私の名前はキーファーです、日本が大好きです
+- (Kon'nichiwa, watashinonamaeha kīfādesu, Nihon ga daisukidesu)
 
 <!--
 **kieferland/kieferland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
